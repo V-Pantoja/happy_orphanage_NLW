@@ -81,5 +81,3 @@ function toggleSelect(event) {
 
    input.value = button.dataset.value
 }
-
-// Aula 04 : Começar

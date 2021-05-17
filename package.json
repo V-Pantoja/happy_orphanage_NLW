@@ -1,0 +1,24 @@
+{
+  "name": "happy_orphanage_nlw",
+  "version": "1.0.0",
+  "description": "Site de orfanatos criado no evento Next Level Week",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V-Pantoja/happy_orphanage_nlw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V-Pantoja/happy_orphanage_nlw/issues"
+  },
+  "homepage": "https://github.com/V-Pantoja/happy_orphanage_nlw#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
