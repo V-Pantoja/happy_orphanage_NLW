@@ -1,2 +1,2 @@
 # happy_orphanage_NLW
-Site de orfanatos criado no evento Next Level Week
+Site de casas de acolhimento institucional criado no evento Next Level Week
