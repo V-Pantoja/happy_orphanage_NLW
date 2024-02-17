@@ -15,10 +15,10 @@ server
 .set('view engine', 'hbs')
 
 // rotas da aplicação
-.get('/', pages.index)
-.get('/orphanage', pages.orphanage)
-.get('/orphanages', pages.orphanages)
-.get('/create-orphanage', pages.createOrphanage)
+.get('/pages/', pages.index)
+.get('/pages/orphanage', pages.orphanage)
+.get('/pages/orphanages', pages.orphanages)
+.get('/pages/create-orphanage', pages.createOrphanage)
 
 // ligar o servidor
 server.listen(5500)

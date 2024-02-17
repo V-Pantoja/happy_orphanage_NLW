@@ -1,4 +1,4 @@
-const orphanages = require('./database/fakedata.js');
+const orphanages = require('./src/database/fakedata.js');
 
 module.exports = {
    index(req, res) {
